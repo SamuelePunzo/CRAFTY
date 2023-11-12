@@ -1,4 +1,4 @@
-# Deanonimizzazione della Blockchain di Bitcoin
+# CRAFTY: Clustering and scRAping For biTcoin deanonYmization
 
 ## Introduzione
 Questo repository contiene il codice e gli strumenti necessari per condurre analisi e tecniche di deanonimizzazione sulla blockchain di Bitcoin. Il progetto fornisce un DataSet di transazioni Bitcoin raccolte tra il blocco genesis (03-01-2009, 17:15:05) e il blocco di altezza 214562 (31-12-2012, 11:52:37). Il DataSet è stato elaborato per ridurne le dimensioni e preservare la privacy degli utenti.
